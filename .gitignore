@@ -1,0 +1,6 @@
+.node-gyp
+.npm
+.python-history
+.bash_history
+.ssh
+work
