@@ -3,4 +3,6 @@
 .python-history
 .bash_history
 .ssh
+.sudo_as_admin_successful
+.viminfo
 work
