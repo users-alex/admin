@@ -4,5 +4,7 @@
 .bash_history
 .ssh
 .sudo_as_admin_successful
+.oracle_jre_usage
 .viminfo
 work
+src

@@ -16,4 +16,7 @@ umask 022
 # alias cp='cp -i'
 # alias mv='mv -i'
 
-export PATH=~/bin:/usr/local/nodejs/bin:/usr/local/bin:$PATH
+export NODE_HOME=/usr/local/nodejs
+export JAVA_HOME=/usr/local/jdk
+export ERLANG_HOME=/usr/local/erlang
+export PATH=~/bin:$NODE_HOME/bin:$JAVA_HOME/bin:$ERLANG_HOME/bin:/usr/local/bin:$PATH
